@@ -3,6 +3,7 @@ import 'package:test_project/home_page.dart';
 
 void main() {
   runApp(const MyApp());
+  thaydoi1;
 }
 
 class MyApp extends StatelessWidget {
